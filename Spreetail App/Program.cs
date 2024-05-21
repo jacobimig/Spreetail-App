@@ -15,7 +15,7 @@ namespace SpreetailApp
                 Console.Write(Messages.Precursor);  // Prefix all commands with "> "
 
                 string input = Console.ReadLine() ?? string.Empty;
-                if (string.IsNullOrEmpty(input) || string.IsNullOrWhiteSpace(input)) continue;
+                if (string.IsNullOrEmpty(input) || string.IsNullOrWhiteSpace(input)) continue; // Keep running even if input is empty, null, or has whitespace
                 UserInput usrInput = new(input);
 
                 switch (usrInput.Command) // Run appropriate command based on user input

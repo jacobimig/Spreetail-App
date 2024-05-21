@@ -5,8 +5,8 @@ namespace Spreetail_App
 {
     public class UserInput : IUserInput
     {
-        public string Command { get; private set; }
-        public string? Key { get; private set; }
+        public string Command { get; set; }
+        public string? Key { get; set; }
         public HashSet<string>? Members = new HashSet<string>();
 
         public UserInput(string input)
