@@ -4,9 +4,9 @@ An interactive command line app that stores a multi-value dictionary in memory.
 
 1. Have Visual Studio 2022 installed
 2. Clone the repository
-3. Open the developer command prompt by going to Tools -> Command Line -> Developer Command Prompt and running "dotnet restore"
-4. Open the project in visual studio and right-click on the Spreetail App.csproj file and then click "Build".
-5. To run unit tests, click on Tests -> Run All Tests.  Or run "dotnet build" in the command prompt.
+3. Open the Developer Command Prompt by going to Tools -> Command Line -> Developer Command Prompt and then run "dotnet restore"
+4. Open the project in Visual Studio and right-click on the Spreetail App.csproj file and then click "Build".
+5. To run unit tests, run "dotnet build" in the Developer Command Prompt.
 6. To run the app, click on the down arrow next to the green arrow near the top of the visual studio window and select "Spreetail App".  Then click the green arrow.
 
 Valid Command Examples
