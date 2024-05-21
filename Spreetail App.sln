@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spreetail App", "Spreetail App\Spreetail App.csproj", "{1BD41A79-CD9A-4D6D-BCE8-9BF06376CE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreetail App Tests", "Spreetail App Tests\Spreetail App Tests.csproj", "{94C198FC-9A2A-4343-96D0-AC2841E37DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD41A79-CD9A-4D6D-BCE8-9BF06376CE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD41A79-CD9A-4D6D-BCE8-9BF06376CE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD41A79-CD9A-4D6D-BCE8-9BF06376CE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD41A79-CD9A-4D6D-BCE8-9BF06376CE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C198FC-9A2A-4343-96D0-AC2841E37DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C198FC-9A2A-4343-96D0-AC2841E37DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C198FC-9A2A-4343-96D0-AC2841E37DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C198FC-9A2A-4343-96D0-AC2841E37DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF5981C8-510E-493B-966F-204A522BF068}
+	EndGlobalSection
+EndGlobal
