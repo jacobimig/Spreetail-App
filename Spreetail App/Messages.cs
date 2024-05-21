@@ -11,7 +11,6 @@
         public const string ErrorMemberExists = ") ERROR, member already exists for key";
         public const string ErrorNoKeyProvided = ") ERROR, no key was provided";
         public const string ErrorNoMemberProvided = ") ERROR, no member was provided";
-        public const string ErrorNoInputProvided = ") ERROR, no input was provided";
         public const string ErrorNoValidCommand = ") ERROR, not a valid command";
         public const string ErrorTooManyMembers = ") ERROR, too many members provided";
         public const string Cleared = ") Cleared";
